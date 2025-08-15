@@ -1,0 +1,9 @@
+/public        → Imagens e arquivos estáticos
+/src
+  /components  → Componentes reutilizáveis
+  /data        → Arquivo JSON dos projetos
+  /styles      → CSS/Tailwind/etc
+  App.jsx      → Arquivo principal do app
+  main.jsx     → Entrada do React
+README.md      → Explicação do projeto
+package.json   → Dependências e scripts
